@@ -7,7 +7,6 @@
 - ⚡ Fun fact: I love solving complex problems and exploring new technologies.
 
 
-## 🛠️ Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
 ![FastAPI](https://img.shields.io/badge/-FastApi-059487?logo=fastapi&logoColor=fff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-2F5B7D?logo=postgresql&logoColor=fff)
