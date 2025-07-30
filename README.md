@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iamabhaypatel28
 - 👀 I’m interested in web development, Python programming, and building innovative solutions.
 - 🌱 I’m currently learning more about Django, Fastapi, React, and API integrations.
-- 💞️ I’m looking to collaborate on open-source projects, especially those involving Python, Django, Fastapi, and React.
+- 💞️ I’m looking to collaborate on open-source projects, especially those involving Python, Django, Fastapi, Nextjs, and React.
 - 📫 You can reach me via email at [abhayribadiya123@gmail.com] or connect with me on LinkedIn.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love solving complex problems and exploring new technologies.
